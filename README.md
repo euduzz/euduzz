@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**euduzz/euduzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-Here are some ideas to get you started:
+<p align="left"> 
+  Olá meu nome é Eduardo, sou desenvolvedor Full Stack. Estou disponível para freelas, caso precise contratar meu serviço entre em contato.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  💼 Skills: <strong>NodeJs, VueJs, GraphQL, Sass, UI/UX.</strong>
+</p>
+
+<p align="left">
+  💌 Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem:: ⤵️
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/euduzz" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/euduzz" /></a>
+</p>  
