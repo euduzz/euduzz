@@ -1,7 +1,7 @@
 ### Olá, sou o Eduardo Correia 👋
 
 <p align="left"> 
-  Atualmente trabalho com Desenvolvedor Full Stack na @Locaweb. Dentro do time de inovação sou responsável por criação de novas ferramentas e funcionalidades que visam melhorar a experiência do usuário e agregar valor aos serviços.
+  Atualmente trabalho como desenvolvedor Full Stack na @Locaweb. Dentro do time de inovação sou responsável pela criação de novas ferramentas e funcionalidades que visam melhorar a experiência do usuário e agregar valor aos serviços.
 </p>
 
 #### Disponibilidade para:
