@@ -6,7 +6,7 @@
 
 #### Disponibilidade para:
 
-- Contribuição em projetos pessoais
+- Novas oportunidades
 - Propostas de freelance
 
 #### Tecnologias:
