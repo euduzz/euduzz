@@ -1,19 +1,18 @@
 ### Olá, sou o Eduardo Correia 👋
 
 <p align="left"> 
-  Atualmente trabalho como desenvolvedor <strong>Full Stack</strong> na @locaweb. Dentro do time de inovação sou responsável pela criação de novas ferramentas e funcionalidades que visam melhorar a experiência do usuário e agregar valor aos serviços.
-</p>
+  Atualmente trabalho como desenvolvedor <strong>Front-end</strong> na @enjoei.
 
 #### Disponibilidade para:
 
-- Novas oportunidades
 - Propostas de freelance
 
 #### Tecnologias:
 
+- Ruby;
 - GraphQL;
-- Nodejs / Vuejs;
 - Design UI/UX;
+- Nodejs / Vuejs;
 
 #### Entre em contato:
 
