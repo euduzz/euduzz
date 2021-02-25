@@ -9,8 +9,8 @@
 
 More about me:
 - :computer: I’m currently working on [@enjoei](https://github.com/enjoei)
-- :school: Degree in Computer Engineering - FIAP
-- :star: Fun fact: my favorite series are **Breaking Bad** and **The Mentalist**
+- :green_book: Degree in Computer Engineering - FIAP
+- :star: My favorite series are **Breaking Bad** and **The Mentalist**
 
 Hobbies:
 - Art, Draw, Photography
