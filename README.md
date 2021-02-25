@@ -8,7 +8,7 @@
   I'm Eduardo, a 24y front-end developer with a passion for technology.
 
 More about me:
-- :computer: I’m currently working on [@enjoei](https://github.com/enjoei)
+- :computer: I’m currently working at [@enjoei](https://github.com/enjoei)
 - :green_book: Degree in Computer Engineering - FIAP
 - :star: My favorite series are **Breaking Bad** and **The Mentalist**
 
