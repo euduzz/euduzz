@@ -19,12 +19,12 @@ Hobbies:
 
 <details>
   <summary>:zap: Github Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=devcorreia&&show_icons=true&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=devcorreia&layout=compact&show_icons=true&count_private=true">
 </details>
 
 <details>
   <summary>:zap: Languages Used</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcorreia&layout=compact&bg_color=ffffff&text_color=333333">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcorreia&layout=compact&count_private=true">
 </details>
 <br/>
 
