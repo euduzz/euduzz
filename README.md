@@ -15,7 +15,7 @@ More about me:
 Hobbies:
 - Art, Draw, Photography
 - Cooking different dishes and desserts
-- Games, mostly i'm playing Valorant
+- Games, mostly FPS games, like Valorant and CSGO
 
 <details>
   <summary>:zap: Github Stats</summary>
