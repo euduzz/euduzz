@@ -24,7 +24,7 @@ Hobbies:
 
 <details>
   <summary>:zap: Languages Used</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcorreia&layout=compact&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcorreia&count_private=true">
 </details>
 <br/>
 
