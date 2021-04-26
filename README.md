@@ -11,7 +11,7 @@ I'm Eduardo Correia, I'm a Full Stack developer 👨‍💻 who is passionate ab
 - :school: Degree in Computer Engineering - FIAP
 - :star: My favorite series are **Breaking Bad** and **The Mentalist**
 - :blue_book: Learning Typescript, C++, Python, Sass, and of course, JS improvements
-- :hearts: Ask me about: Cryptocurrency investor, Brazilian Jiu-Jitsu, animes, Valorant and other stuff's
+- :hearts: Cryptocurrency investor, Brazilian Jiu-Jitsu, animes, Valorant and other stuff's
 
 <p align="justify">
   <a href="https://github.com/devcorreia/github-readme-stats">
