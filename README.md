@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ecorreia.fit@gmail.com)](mailto:ecorreia.fit@gmail.com)
 [![Profile Views](https://visitor-badge.glitch.me/badge?page_id=github/devcorreia)](https://github.com/devcorreia)
 
-## Hi There 👋, 
+## Hi There 👋
 I'm Eduardo Correia, I'm a Full Stack developer 👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem. 
 
 - :computer: I’m currently working at [@enjoei](https://github.com/enjoei)
