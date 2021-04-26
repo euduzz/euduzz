@@ -23,7 +23,7 @@ I'm Eduardo Correia, I'm a Full Stack developer 👨‍💻 who is passionate ab
    <a href="https://github.com/devcorreia/github-readme-stats">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcorreia&layout=compact&theme=radical" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcorreia&layout=compact&theme=radical&count_private=true"" />
   </a>  
 </p>
 
