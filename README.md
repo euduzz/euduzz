@@ -11,7 +11,7 @@ I'm a Full Stack developer 👨‍💻 who is passionate about JavaScript techno
 - :school: Degree in Computer Engineering - FIAP
 - :star: My favorite series are **Breaking Bad** and **The Mentalist**
 - :blue_book: Learning Typescript, C++, Python, Sass, and of course, JS improvements
-- :hearts: Cryptocurrency investor, Brazilian Jiu-Jitsu, animes, Valorant and other stuff's
+- :hearts: Cryptocurrency investor, Brazilian Jiu-Jitsu, Animes, Valorant and other stuff's
 
 ### Technologies:
 <code><img height="20" src="https://user-images.githubusercontent.com/36170400/116083423-f7466380-a672-11eb-9868-5cd91cc8dcc8.png"></code>
