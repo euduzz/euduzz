@@ -5,7 +5,7 @@
 [![Profile Views](https://visitor-badge.glitch.me/badge?page_id=github/devcorreia)](https://github.com/devcorreia)
 
 ## Hi There 👋
-I'm Eduardo Correia, I'm a Full Stack developer 👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem. 
+I'm a Full Stack developer 👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem. 
 
 - :computer: I’m currently working at [@enjoei](https://github.com/enjoei)
 - :school: Degree in Computer Engineering - FIAP
